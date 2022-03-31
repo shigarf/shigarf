@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @shigarf
+- 👀 I’m interested in all sorts of Electrical machines and Electronic devices!
+- 🌱 I’m currently doing my Bachelors of Technology in Electrical & Electronics decipline.
+- 💞️ I’m looking to collaborate on multiple Electronics projects.
+- 📫 Reach me at my Linkedin.
