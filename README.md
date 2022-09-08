@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @shigarf
+- 🤺 I'm currently working at Elecbits Technologies Pvt. Ltd, As a Embedded System Engineer.
 - 👀 I’m interested in all sorts of Electrical machines and Electronic devices!
-- 🌱 I’m currently doing my Bachelors of Technology in Electrical & Electronics decipline.
+- 💻 I'm a programmer for fun!
+- 🌱 I’ve done my Bachelors of Technology in Electrical & Electronics decipline.
 - 💞️ I’m looking to collaborate on multiple Electronics projects.
-- 📫 Reach me at my Linkedin.
+- 📫 Reach me at my Linkedin "shigarf-mashaam".
