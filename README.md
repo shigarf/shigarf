@@ -39,12 +39,18 @@ Both projects are part of a connected ecosystem: the voice controller discovers 
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white) 
+![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) 
 
 **Platforms & Frameworks**
 
 ![ESP-IDF](https://img.shields.io/badge/ESP--IDF-E7352C?style=flat-square&logo=espressif&logoColor=white)
 ![FreeRTOS](https://img.shields.io/badge/FreeRTOS-8CC84B?style=flat-square)
 ![Azure IoT](https://img.shields.io/badge/Azure_IoT-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
+![Mosquitto](https://img.shields.io/badge/mosquitto-%233C5280.svg?style=flat&logo=eclipsemosquitto&logoColor=white)
 
 **Protocols**
 
@@ -53,6 +59,13 @@ Both projects are part of a connected ecosystem: the voice controller discovers 
 **Hardware**
 
 `ESP32-S3` · `PDM Microphones (I2S)` · `WS2812B LEDs` · `Relay Control` · `GPIO`
+
+---
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=shigarf&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=shigarf&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shigarf&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
 
@@ -67,3 +80,5 @@ I care a lot about the engineering details: task stack sizing, reconnection logi
 ### Get in touch 📫
 
 Feel free to reach out. I'm always happy to talk embedded systems, IoT architecture, or anything that runs close to the metal.
+
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shigarfmashaam2@gmail.com)
