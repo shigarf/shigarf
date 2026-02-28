@@ -6,11 +6,11 @@
 
 I'm an embedded systems engineer who lives at the boundary between hardware and firmware. Most of my time goes into writing C code for microcontrollers, designing real-time task architectures with FreeRTOS, and wiring constrained devices into large-scale cloud backends. I'm drawn to the challenge of making constrained hardware do surprisingly sophisticated things — reliably, securely, and at scale.
 
-I hold a **B.E. in Electrical Engineering** from Maulana Azad College of Engineering & Technology, Aryabhatta Knowledge University (CGPA: 8.11 / 10.0), and I currently build production firmware and hardware at **Azoox Technologies Pvt. Ltd.**, working with clients like Urban Company, Schneider Electric, Yamaha, and Panasonic. My long-term goal is to deepen this work through a research-focused **Master's in Electrical Engineering** at a US university, where I can contribute to rigorous work in embedded systems and IoT at scale.
+I hold a **B.Tech. in Electrical Engineering** from Aryabhatta Knowledge University (CGPA: 8.11 / 10.0), and I currently build production firmware and hardware at **Azoox Technologies Pvt. Ltd.**, working with clients like Urban Company, Schneider Electric, Yamaha, and Panasonic. My long-term goal is to deepen this work through a research-focused **Master's in Electrical Engineering** at a US university, where I can contribute to rigorous work in embedded systems and IoT at scale.
 
 ---
 
-### Education 🎓
+### Education
 
 **B.E. Electrical Engineering**
 Maulana Azad College of Engineering & Technology · Aryabhatta Knowledge University
@@ -20,17 +20,19 @@ Maulana Azad College of Engineering & Technology · Aryabhatta Knowledge Univers
 
 ### What I'm building
 
-- **WiserVC** — A voice controller based on Espressif's ESP32-S3. It listens for a wake word using Espressif's on-device neural network (WakeNet), recognizes custom voice commands with MultiNet, and controls smart switches both through Azure IoT Hub over MQTT and locally through mDNS-discovered WebSocket connections — all at the same time. The voice controller discovers and controls switches locally when the cloud isn't reachable, and syncs state back up when it is.
+- **Voice Controller** — A voice controller based on Espressif's ESP32-S3. It listens for a wake word using Espressif's on-device neural network (WakeNet), recognizes custom voice commands with MultiNet, and controls smart switches both through Azure IoT Hub over MQTT and locally through mDNS-discovered WebSocket connections — all at the same time. The voice controller discovers and controls switches locally when the cloud isn't reachable, and syncs state back up when it is.
+
+- **Co-Pilot** — A brand-agnostic, multi-appliance, integrated full-stack diagnostic system.
 
 - **Mini Co-Pilot** — A brand-agnostic, multi-appliance, integrated full-stack diagnostic system.
 
 - **4G/2G Payment Soundbox** —
 
-- ****
+- **Fatigue Management System** —
 
 ---
 
-### Currently Pursuing 🎯
+### Currently Pursuing
 
 I'm preparing applications for a **research-focused M.S. in Electrical Engineering** at US universities. My research interests center on embedded systems reliability, IoT infrastructure at scale, and resource-constrained computing — areas where my hands-on production experience at Azoox intersects with open research questions.
 
@@ -38,7 +40,7 @@ If you work on embedded systems or IoT research, I'd genuinely like to connect.
 
 ---
 
-### What I'm learning 🌱
+### What I'm learning
 
 - Offline-first IoT design — building systems that degrade gracefully without a cloud connection and recover cleanly when it comes back
 - Production security for embedded devices — per-device certificate provisioning, NVS encryption, and secure boot on ESP32
@@ -46,7 +48,7 @@ If you work on embedded systems or IoT research, I'd genuinely like to connect.
 
 ---
 
-### Tech stack 🛠️
+### Tech stack
 
 **Languages**
 
@@ -76,14 +78,14 @@ If you work on embedded systems or IoT research, I'd genuinely like to connect.
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=shigarf&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=shigarf&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shigarf&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
 
-### A bit more ⚡
+### A bit more
 
 There's something genuinely satisfying about squeezing a wake-word neural network, a full TLS stack, an MQTT client, a BLE provisioning service, and a WebSocket client onto a chip with 16MB of flash — and watching it all hold together under real-world conditions. That puzzle is what keeps me interested.
 
@@ -91,7 +93,7 @@ I care a lot about the engineering details: task stack sizing, reconnection logi
 
 ---
 
-### Get in touch 📫
+### Get in touch
 
 Feel free to reach out. I'm always happy to talk embedded systems, IoT architecture, or anything that runs close to the metal.
 
