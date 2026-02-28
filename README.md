@@ -4,23 +4,37 @@
 
 ---
 
-I'm a embedded systems engineer who lives at the boundary between hardware and the firmware. Most of my time goes into writing C code for microcontrollers, designing real-time task architectures with FreeRTOS, and wiring tiny embedded devices into large-scale cloud backends. I'm drawn to the challenge of making constrained hardware do surprisingly sophisticated things reliably, securely, and at scale.
+I'm an embedded systems engineer who lives at the boundary between hardware and firmware. Most of my time goes into writing C code for microcontrollers, designing real-time task architectures with FreeRTOS, and wiring constrained devices into large-scale cloud backends. I'm drawn to the challenge of making constrained hardware do surprisingly sophisticated things — reliably, securely, and at scale.
 
-I currently work at **Azoox Technologies Pvt. Ltd.**, where I develop production firmware and hardware for clientels like Urban Company, Schneider Electric, Yamaha, and Panasonic.
+I hold a **B.E. in Electrical Engineering** from Maulana Azad College of Engineering & Technology, Aryabhatta Knowledge University (CGPA: 8.11 / 10.0), and I currently build production firmware and hardware at **Azoox Technologies Pvt. Ltd.**, working with clients like Urban Company, Schneider Electric, Yamaha, and Panasonic. My long-term goal is to deepen this work through a research-focused **Master's in Electrical Engineering** at a US university, where I can contribute to rigorous work in embedded systems and IoT at scale.
+
+---
+
+### Education 🎓
+
+**B.E. Electrical Engineering**
+Maulana Azad College of Engineering & Technology · Aryabhatta Knowledge University
+*Graduated 2022 · CGPA: 8.11 / 10.0*
 
 ---
 
 ### What I'm building
 
-- **WiserVC** — A voice controller based on the Espressif's ESP32-S3. It listens for a wake word using Espressif's on-device neural network (WakeNet), recognizes custom voice commands with MultiNet, and controls smart switches both through Azure IoT Hub over MQTT and locally through mDNS-discovered WebSocket connections — all at the same time.
+- **WiserVC** — A voice controller based on Espressif's ESP32-S3. It listens for a wake word using Espressif's on-device neural network (WakeNet), recognizes custom voice commands with MultiNet, and controls smart switches both through Azure IoT Hub over MQTT and locally through mDNS-discovered WebSocket connections — all at the same time. The voice controller discovers and controls switches locally when the cloud isn't reachable, and syncs state back up when it is.
 
-- **Mini Co-Pilot** — A brand agnostic, multi appliance, integrated full stack diagnostic system.
+- **Mini Co-Pilot** — A brand-agnostic, multi-appliance, integrated full-stack diagnostic system.
 
-- **4G/2G Payment Soundbox** — 
+- **4G/2G Payment Soundbox** —
 
 - ****
 
-Both projects are part of a connected ecosystem: the voice controller discovers and controls the switches locally when the cloud isn't reachable, and syncs state back up when it is.
+---
+
+### Currently Pursuing 🎯
+
+I'm preparing applications for a **research-focused M.S. in Electrical Engineering** at US universities. My research interests center on embedded systems reliability, IoT infrastructure at scale, and resource-constrained computing — areas where my hands-on production experience at Azoox intersects with open research questions.
+
+If you work on embedded systems or IoT research, I'd genuinely like to connect.
 
 ---
 
@@ -39,18 +53,18 @@ Both projects are part of a connected ecosystem: the voice controller discovers 
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white) 
-![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) 
+![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat-square&logo=powershell&logoColor=white)
+![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white)
 
 **Platforms & Frameworks**
 
 ![ESP-IDF](https://img.shields.io/badge/ESP--IDF-E7352C?style=flat-square&logo=espressif&logoColor=white)
 ![FreeRTOS](https://img.shields.io/badge/FreeRTOS-8CC84B?style=flat-square)
 ![Azure IoT](https://img.shields.io/badge/Azure_IoT-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
-![Mosquitto](https://img.shields.io/badge/mosquitto-%233C5280.svg?style=flat&logo=eclipsemosquitto&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
+![Mosquitto](https://img.shields.io/badge/mosquitto-%233C5280.svg?style=flat-square&logo=eclipsemosquitto&logoColor=white)
 
 **Protocols**
 
@@ -62,7 +76,7 @@ Both projects are part of a connected ecosystem: the voice controller discovers 
 
 ---
 
-# 📊 GitHub Stats:
+### 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=shigarf&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=shigarf&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shigarf&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
@@ -81,4 +95,5 @@ I care a lot about the engineering details: task stack sizing, reconnection logi
 
 Feel free to reach out. I'm always happy to talk embedded systems, IoT architecture, or anything that runs close to the metal.
 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shigarfmashaam2@gmail.com)
+[![email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:shigarfmashaam2@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shigarf-mashaam)
